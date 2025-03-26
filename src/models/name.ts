@@ -13,6 +13,7 @@ export const chatCollection = "chats";  // Stores messages between students & in
 export const questionCollection = "questions";  // For Q&A within a class/course
 export const answerCollection = "answers";  // Answers to course questions
 export const commentCollection = "comments";  // Comments on lessons or quizzes
+export const voteCollection = "votes"
 
 export const courseAttachmentBucket = "course-attachments";  // Stores private PDFs, videos
 export const questionAttachmentBucket = "question-attachments";  // Stores files for Q&A
